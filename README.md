@@ -14,7 +14,6 @@ I'm Aryan Patel
 
 
 🚀 Seeking a **Software Engineering** position  
-💡 Passionate about building clean, efficient, and user-centered software  
 🌱 Always learning and exploring new technologies  
 
 ---
