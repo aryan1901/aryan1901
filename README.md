@@ -33,7 +33,11 @@
   <a href="#" title="npm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm"/></a>
   <a href="#" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/></a>
 </p>
-
+<!-- Legend -->
+<p align="left">
+  Python &nbsp; | &nbsp; AWS &nbsp; | &nbsp; React &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Java &nbsp; | &nbsp; Angular &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; Docker &nbsp; | &nbsp; CSS3 &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; MongoDB <br>
+  Google Colab &nbsp; | &nbsp; Power BI &nbsp; | &nbsp; Tableau &nbsp; | &nbsp; VS Code &nbsp; | &nbsp; Raspberry Pi &nbsp; | &nbsp; Arduino Uno &nbsp; | &nbsp; Pandas &nbsp; | &nbsp; NumPy &nbsp; | &nbsp; npm &nbsp; | &nbsp; Figma
+</p>
 
 
 ---
