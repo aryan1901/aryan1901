@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
----
-  
   <h1>
     Hey folks!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -14,7 +9,7 @@
 
 ---
 
-### Hi there 👋 I'm Aryan Patel
+I'm Aryan Patel
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🚀 Seeking a **Software Engineering** position  
@@ -123,4 +118,9 @@
 
 ---
 
+<div id="footer" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+---
+  
 *Thanks for visiting my profile! Let's connect and build something amazing.* 🚀
