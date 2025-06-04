@@ -20,8 +20,7 @@ I'm Aryan Patel
 
 ### 🛠️ Tools & Technologies
 
-  <h4>Tech Stack & Tools</h4>
-  <br>
+
 <table>
   <tr>
     <td align="center">
