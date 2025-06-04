@@ -29,7 +29,7 @@
 ### 📫 Connect with Me
 
 - 📧 Email: aryanpatel11041@gmail.com
-- 💼 LinkedIn: [patel](https://linkedin.com/in/patelar)
+- 💼 LinkedIn: [Aryan Patel](https://linkedin.com/in/patelar)
 
 ---
 
