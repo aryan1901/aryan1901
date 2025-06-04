@@ -9,35 +9,105 @@
 
 ### 🛠️ Tools & Technologies
 
-<p align="left">
-  <a href="#" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
-  <a href="#" title="AWS"><img src="https://img.icons8.com/color/48/amazon-web-services.png" height="40" alt="AWS"/></a>
-  <a href="#" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/></a>
-  <a href="#" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/></a>
-  <a href="#" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></a>
-  <a href="#" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/></a>
-  <a href="#" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/></a>
-  <a href="#" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/></a>
-  <a href="#" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/></a>
-  <a href="#" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/></a>
-  <a href="#" title="Firebase"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/></a>
-  <a href="#" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/></a>
-  <a href="#" title="Google Colab"><img src="https://img.icons8.com/color/48/google-colab.png" height="40" alt="Google Colab"/></a>
-  <a href="#" title="Power BI"><img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/></a>
-  <a href="#" title="Tableau"><img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau"/></a>
-  <a href="#" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/></a>
-  <a href="#" title="Raspberry Pi"><img src="https://img.icons8.com/color/48/raspberry-pi.png" height="40" alt="Raspberry Pi"/></a>
-  <a href="#" title="Arduino Uno"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino Uno"/></a>
-  <a href="#" title="Pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/></a>
-  <a href="#" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/></a>
-  <a href="#" title="npm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm"/></a>
-  <a href="#" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/></a>
-</p>
-<!-- Legend -->
-<p align="left">
-  Python &nbsp; | &nbsp; AWS &nbsp; | &nbsp; React &nbsp; | &nbsp; Node.js &nbsp; | &nbsp; Java &nbsp; | &nbsp; Angular &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; Docker &nbsp; | &nbsp; CSS3 &nbsp; | &nbsp; HTML5 &nbsp; | &nbsp; Firebase &nbsp; | &nbsp; MongoDB <br>
-  Google Colab &nbsp; | &nbsp; Power BI &nbsp; | &nbsp; Tableau &nbsp; | &nbsp; VS Code &nbsp; | &nbsp; Raspberry Pi &nbsp; | &nbsp; Arduino Uno &nbsp; | &nbsp; Pandas &nbsp; | &nbsp; NumPy &nbsp; | &nbsp; npm &nbsp; | &nbsp; Figma
-</p>
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+      <br><sub>Python</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/amazon-web-services.png" height="40" title="AWS"/>
+      <br><sub>AWS</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+      <br><sub>React</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js"/>
+      <br><sub>Node.js</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java"/>
+      <br><sub>Java</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="Angular"/>
+      <br><sub>Angular</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL"/>
+      <br><sub>MySQL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker"/>
+      <br><sub>Docker</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+      <br><sub>CSS3</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+      <br><sub>HTML5</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" title="Firebase"/>
+      <br><sub>Firebase</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
+      <br><sub>MongoDB</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/google-colab.png" height="40" title="Google Colab"/>
+      <br><sub>Colab</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/power-bi.png" height="40" title="Power BI"/>
+      <br><sub>Power BI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/tableau-software.png" height="40" title="Tableau"/>
+      <br><sub>Tableau</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code"/>
+      <br><sub>VS Code</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.icons8.com/color/48/raspberry-pi.png" height="40" title="Raspberry Pi"/>
+      <br><sub>Raspberry Pi</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino Uno"/>
+      <br><sub>Arduino</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas"/>
+      <br><sub>Pandas</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy"/>
+      <br><sub>NumPy</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" title="npm"/>
+      <br><sub>npm</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma"/>
+      <br><sub>Figma</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
