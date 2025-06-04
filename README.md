@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Aryan Patel
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🚀 Seeking a **Software Engineering** position  
 💡 Passionate about building clean, efficient, and user-centered software  
