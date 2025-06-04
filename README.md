@@ -28,9 +28,13 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: aryanpatel11041@gmail.com
-- 💼 LinkedIn: [Aryan Patel](https://linkedin.com/in/patelar)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanpatel11041@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aryan1901/aryan1901)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patelar)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/thor8416
+)
 
+---
 ---
 
 *Thanks for visiting my profile! Let's connect and build something amazing.* 🚀
