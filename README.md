@@ -9,32 +9,28 @@
 
 ### 🛠️ Tools & Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-black?style=flat-square&logo=googlecolab)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberrypi)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
-![npm](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+<p align="left">
+  <a href="#" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></a>
+  <a href="#" title="AWS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/></a>
+  <a href="#" title="Angular"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular"/></a>
+  <a href="#" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/></a>
+  <a href="#" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/></a>
+  <a href="#" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/></a>
+  <a href="#" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/></a>
+  <a href="#" title="Firebase"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/></a>
+  <a href="#" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/></a>
+  <a href="#" title="Google Colab"><img src="https://img.icons8.com/color/48/google-colab.png" height="40" alt="Google Colab"/></a>
+  <a href="#" title="Power BI"><img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/></a>
+  <a href="#" title="Tableau"><img src="https://img.icons8.com/color/48/tableau-software.png" height="40" alt="Tableau"/></a>
+  <a href="#" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/></a>
+  <a href="#" title="Raspberry Pi"><img src="https://img.icons8.com/color/48/raspberry-pi.png" height="40" alt="Raspberry Pi"/></a>
+  <a href="#" title="Arduino Uno"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino Uno"/></a>
+  <a href="#" title="Pandas"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/></a>
+  <a href="#" title="NumPy"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/></a>
+  <a href="#" title="npm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm"/></a>
+  <a href="#" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></a>
+  <a href="#" title="Figma"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/></a>
+</p>
 
 
 ---
