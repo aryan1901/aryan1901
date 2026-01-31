@@ -99,12 +99,7 @@ I'm Aryan Patel
 </table>
 
 
----
 
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan1901&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=aryan1901&theme=radical)
 
 ---
 
